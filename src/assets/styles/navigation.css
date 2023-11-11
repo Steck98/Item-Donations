@@ -1,0 +1,20 @@
+ul{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+li{
+    list-style: none;
+    
+}
+a{
+    line-height: 24px;
+    padding: 9px 20px;
+    margin: 0 7.5px;
+    text-decoration: none;
+    color: #3C3C3C;
+    border: none;
+}
+a:hover{
+    border:0.75px solid #3b3b3b;
+}

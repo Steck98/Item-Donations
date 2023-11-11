@@ -1,0 +1,16 @@
+.wrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 37px;
+    .signIn__element{
+        padding: 9px 10px;
+        color: #737373;
+        font-size: 13px;
+        
+    }
+    .signIn__element:hover{
+        border: 0.75px solid #FAD648;;
+    }
+}
