@@ -1,0 +1,35 @@
+button{
+    color: var(--font);
+    border: 0.75px solid var(--font);
+    background-color: #fff;
+    margin: 0 22px;
+}
+
+.button__submit{
+font-size: 18px;
+padding: 13px 53px;
+}
+.button__medium{
+font-size: 24px;
+padding: 23px 42px;
+max-width: 220px;
+
+}
+.button__big{
+font-size: 36px;
+padding: 13px 93px;
+max-width: 320px;
+}
+
+.sign__button{
+    text-decoration: none;
+    font-size: 14px;
+    padding: 9px 10px;
+    color: var(--font);
+    
+}
+
+.sign__button:hover{
+    border: 0.75px solid #FAD648;
+
+}
